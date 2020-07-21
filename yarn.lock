@@ -1006,8 +1006,10 @@
     get-package-name "^1.0.0"
     param-case "^3.0.3"
 
-"@dword-design/base-config-component-library@../base-config-component-library":
-  version "1.1.4"
+"@dword-design/base-config-component-library@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@dword-design/base-config-component-library/-/base-config-component-library-1.2.0.tgz#aa8ab8ae9b60b654ebe91fca03e69cb6c1b6040a"
+  integrity sha512-CZ5tK35X1242QmlFPfSeVyBwF7HBFJd7uDyiDAka6ogulhUbZ6Bm+MTvdPgfGj+8Ci36GVy671shfz/SqgW52g==
   dependencies:
     "@dword-design/base-config-component" "^1.1.0"
     "@dword-design/functions" "^1.1.3"
