@@ -1,0 +1,35 @@
+{
+  "name": "@dword-design/buefy-addons",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "dword-design/buefy-addons",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@dword-design.de>",
+  "main": "dist/index.ssr.js",
+  "unpkg": "dist/index.min.js",
+  "module": "dist/index.esm.js",
+  "browser": "dist/index.esm.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "clean": "base clean",
+    "commit": "base commit",
+    "lint": "base lint",
+    "prepare": "base prepare",
+    "prepublishOnly": "base prepublishOnly",
+    "test": "base test"
+  },
+  "dependencies": {
+    "js-cookie": "^2.2.1",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^6.24.2",
+    "@dword-design/base-config-component-library": "../base-config-component-library"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "baseConfig": "@dword-design/component-library"
+}
