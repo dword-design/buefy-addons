@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/dword-design/buefy-addons/compare/v1.0.0...v1.0.1) (2020-07-22)
+
+
+### Bug Fixes
+
+* fix ([e87759d](https://github.com/dword-design/buefy-addons/commit/e87759d285b9a501142c4b51546e2e47eac97a07))
+* rename components ([ae36ad5](https://github.com/dword-design/buefy-addons/commit/ae36ad5181b0bd0099fa45cfd44f83f3a7f38377))
+
 # 1.0.0 (2020-07-21)
 
 
