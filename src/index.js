@@ -1,3 +1,3 @@
-export { default as CardModal } from './card-modal.vue'
+export { default as BCardModal } from './card-modal.vue'
 
-export { default as CookieMessage } from './cookie-message.vue'
+export { default as BCookieMessage } from './cookie-message.vue'
