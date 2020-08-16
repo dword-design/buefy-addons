@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <div class="card-content">
-      <component :is="inner" />
+      <component :is="inner" v-bind="props" />
     </div>
   </div>
 </template>
@@ -10,6 +10,7 @@
 export default {
   props: {
     inner: {},
+    props: {},
   },
 }
 </script>
