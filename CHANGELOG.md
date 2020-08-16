@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/dword-design/buefy-addons/compare/v1.0.1...v1.1.0) (2020-08-16)
+
+
+### Features
+
+* add props prop ([dd57632](https://github.com/dword-design/buefy-addons/commit/dd5763287dc5d682a0c1f88326530bc04bc1af4e))
+
 ## [1.0.1](https://github.com/dword-design/buefy-addons/compare/v1.0.0...v1.0.1) (2020-07-22)
 
 
