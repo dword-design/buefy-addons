@@ -13,7 +13,7 @@
     "dist"
   ],
   "scripts": {
-    "clean": "base clean",
+    "check-unknown-files": "base check-unknown-files",
     "commit": "base commit",
     "lint": "base lint",
     "prepare": "base prepare",
@@ -25,7 +25,7 @@
     "vue": "^2.6.11"
   },
   "devDependencies": {
-    "@dword-design/base": "^6.24.2",
+    "@dword-design/base": "^7.0.0",
     "@dword-design/base-config-component-library": "^1.2.0"
   },
   "publishConfig": {
