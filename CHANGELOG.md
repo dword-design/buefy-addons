@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/dword-design/buefy-addons/compare/v1.1.3...v1.1.4) (2021-03-17)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#7](https://github.com/dword-design/buefy-addons/issues/7)) ([c88db86](https://github.com/dword-design/buefy-addons/commit/c88db86fd9f6601615b892125b7b79206d9c5506))
+
 ## [1.1.3](https://github.com/dword-design/buefy-addons/compare/v1.1.2...v1.1.3) (2021-02-17)
 
 
