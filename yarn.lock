@@ -1062,10 +1062,10 @@
     find-up "^5.0.0"
     param-case "^3.0.3"
 
-"@dword-design/base-config-component-library@^1.2.0":
-  version "1.2.7"
-  resolved "https://registry.yarnpkg.com/@dword-design/base-config-component-library/-/base-config-component-library-1.2.7.tgz#5473aac79e35d1457c444a0135ee5d17d6308e2d"
-  integrity sha512-vY74qvtmBdYaq1jITxGkv8+75vGPcxwoxXVpfmCDp7yfsxqeyBKmkhE2payTwnQ+IAS/h1tlW9DPJIiKa+skgw==
+"@dword-design/base-config-component-library@^1.2.7":
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/@dword-design/base-config-component-library/-/base-config-component-library-1.2.8.tgz#8f4438ac38c3f513730a39d8d392840a8a534005"
+  integrity sha512-ECgtREArHKcbhi/wlWoBi2rFpnpjSlwaebxkNVSzsl8qaDZVzS8dFrp3OieFv5nccm4Ya47fBwuTMUtQQgsCqA==
   dependencies:
     "@dword-design/base-config-component" "^1.1.0"
     "@dword-design/functions" "^3.0.0"
