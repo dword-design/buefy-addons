@@ -1,7 +1,7 @@
 {
   "name": "@dword-design/buefy-addons",
   "version": "1.1.6",
-  "description": "",
+  "description": null,
   "repository": "dword-design/buefy-addons",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
@@ -32,5 +32,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "baseConfig": "@dword-design/component-library"
+  "baseConfig": "@dword-design/component-library",
+  "homepage": null,
+  "keywords": []
 }
