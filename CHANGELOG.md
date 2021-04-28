@@ -1,3 +1,10 @@
+## [1.1.9](https://github.com/dword-design/buefy-addons/compare/v1.1.8...v1.1.9) (2021-04-28)
+
+
+### Bug Fixes
+
+* updated package.json[description] ([#18](https://github.com/dword-design/buefy-addons/issues/18)) ([e0bd259](https://github.com/dword-design/buefy-addons/commit/e0bd25999408461c7d3219d672d34e51519551d5))
+
 ## [1.1.8](https://github.com/dword-design/buefy-addons/compare/v1.1.7...v1.1.8) (2021-04-22)
 
 
