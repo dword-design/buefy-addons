@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/buefy-addons/compare/v1.1.9...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#21](https://github.com/dword-design/buefy-addons/issues/21)) ([7de1a54](https://github.com/dword-design/buefy-addons/commit/7de1a549c2732326edb6f6186f7a350d64686f50))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.1.9](https://github.com/dword-design/buefy-addons/compare/v1.1.8...v1.1.9) (2021-04-28)
 
 
