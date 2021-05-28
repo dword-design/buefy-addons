@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/dword-design/buefy-addons/compare/v2.0.0...v2.0.1) (2021-05-28)
+
+
+### Bug Fixes
+
+* update config files ([a6fb340](https://github.com/dword-design/buefy-addons/commit/a6fb340e785bbb05dd960f5385407d45290159aa))
+
 # [2.0.0](https://github.com/dword-design/buefy-addons/compare/v1.1.9...v2.0.0) (2021-05-03)
 
 
