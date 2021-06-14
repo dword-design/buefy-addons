@@ -54,14 +54,52 @@
 <!-- /DESCRIPTION -->
 
 <!-- INSTALL/ -->
-## Install
-
+## Install Via a Package Manager
 ```bash
 # npm
-$ npm install @dword-design/buefy-addons
+$ npm install buefy-addons
 
 # Yarn
-$ yarn add @dword-design/buefy-addons
+$ yarn add buefy-addons
+```
+
+Add to local components:
+
+```js
+<script>
+import BuefyAddons from 'buefy-addons'
+
+export default {
+  components: {
+    BuefyAddons,
+  },
+}
+</script>
+```
+
+Or register as global component:
+
+```js
+import Vue from 'vue'
+import BuefyAddons from 'buefy-addons'
+
+Vue.component('BuefyAddons', BuefyAddons)
+```
+
+Or register as plugin:
+
+```js
+import Vue from 'vue'
+import BuefyAddons from 'buefy-addons'
+
+Vue.use(BuefyAddons)
+```
+
+## Install Via CDN
+
+```html
+<script src="https://unpkg.com/vue"></script>
+<script src="https://unpkg.com/buefy-addons"></script>
 ```
 <!-- /INSTALL -->
 
