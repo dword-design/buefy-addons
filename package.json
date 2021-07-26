@@ -21,7 +21,7 @@
     "test": "base test"
   },
   "dependencies": {
-    "js-cookie": "^2.2.1",
+    "js-cookie": "^3.0.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
