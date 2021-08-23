@@ -96,7 +96,7 @@ import BuefyAddons from 'buefy-addons'
 Vue.use(BuefyAddons)
 ```
 
-## Install Via CDN
+## Install via CDN
 
 ```html
 <script src="https://unpkg.com/vue"></script>
