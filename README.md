@@ -3,7 +3,7 @@
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-  <p>
+<p>
     <a href="https://npmjs.org/package/@dword-design/buefy-addons">
       <img
         src="https://img.shields.io/npm/v/@dword-design/buefy-addons.svg"
