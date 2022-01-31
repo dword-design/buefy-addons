@@ -66,7 +66,7 @@ $ yarn add buefy-addons
 
 Add to local components:
 
-```js
+```html
 <script>
 import BuefyAddons from 'buefy-addons'
 
