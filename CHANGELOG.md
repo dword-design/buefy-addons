@@ -1,3 +1,10 @@
+## [2.0.10](https://github.com/dword-design/buefy-addons/compare/v2.0.9...v2.0.10) (2022-07-07)
+
+
+### Bug Fixes
+
+* remove cookie message ([3114ad5](https://github.com/dword-design/buefy-addons/commit/3114ad5bfa8f3e110873278a3afdc1ccf2ba2fb6))
+
 ## [2.0.9](https://github.com/dword-design/buefy-addons/compare/v2.0.8...v2.0.9) (2022-02-01)
 
 
