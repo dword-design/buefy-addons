@@ -20,10 +20,7 @@
     "prepublishOnly": "base prepublishOnly",
     "test": "base test"
   },
-  "dependencies": {
-    "js-cookie": "^2.2.1",
-    "vue": "^2.6.11"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@dword-design/base": "^8.0.0",
     "@dword-design/base-config-component-library": "^1.2.0"
