@@ -1,3 +1,10 @@
+## [2.0.12](https://github.com/dword-design/buefy-addons/compare/v2.0.11...v2.0.12) (2023-05-20)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#63](https://github.com/dword-design/buefy-addons/issues/63)) ([696f2ff](https://github.com/dword-design/buefy-addons/commit/696f2ff39ac3e08801f0e1ad3ab9ae6a86bde61d))
+
 ## [2.0.11](https://github.com/dword-design/buefy-addons/compare/v2.0.10...v2.0.11) (2022-09-21)
 
 
