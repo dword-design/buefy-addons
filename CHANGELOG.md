@@ -1,3 +1,10 @@
+## [2.0.13](https://github.com/dword-design/buefy-addons/compare/v2.0.12...v2.0.13) (2023-05-20)
+
+
+### Bug Fixes
+
+* foo ([b8a0a13](https://github.com/dword-design/buefy-addons/commit/b8a0a134051a8c56c899a4cc5666f59a1d5c1db2))
+
 ## [2.0.12](https://github.com/dword-design/buefy-addons/compare/v2.0.11...v2.0.12) (2023-05-20)
 
 
