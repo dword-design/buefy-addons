@@ -58,17 +58,17 @@
 
 ```bash
 # npm
-$ npm install buefy-addons
+$ npm install @dword-design/buefy-addons
 
 # Yarn
-$ yarn add buefy-addons
+$ yarn add @dword-design/buefy-addons
 ```
 
 Add to local components:
 
 ```html
 <script>
-import BuefyAddons from 'buefy-addons'
+import BuefyAddons from '@dword-design/buefy-addons'
 
 export default {
   components: {
@@ -81,26 +81,24 @@ export default {
 Or register as a global component:
 
 ```js
-import Vue from 'vue'
-import BuefyAddons from 'buefy-addons'
+import BuefyAddons from '@dword-design/buefy-addons'
 
-Vue.component('BuefyAddons', BuefyAddons)
+app.component('BuefyAddons', BuefyAddons)
 ```
 
 Or register as a plugin:
 
 ```js
-import Vue from 'vue'
-import BuefyAddons from 'buefy-addons'
+import BuefyAddons from '@dword-design/buefy-addons'
 
-Vue.use(BuefyAddons)
+app.use(BuefyAddons)
 ```
 
 ## Install via CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
-<script src="https://unpkg.com/buefy-addons"></script>
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+<script src="https://unpkg.com/@dword-design/buefy-addons"></script>
 ```
 <!-- /INSTALL -->
 
