@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dword-design/buefy-addons/compare/v2.0.14...v3.0.0) (2025-12-06)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#75](https://github.com/dword-design/buefy-addons/issues/75)) ([e046bda](https://github.com/dword-design/buefy-addons/commit/e046bda8ad3b5acde3418e1529a286ab9bf79be8))
+
+
+### BREAKING CHANGES
+
+* node.js >= 22
+
 ## [2.0.14](https://github.com/dword-design/buefy-addons/compare/v2.0.13...v2.0.14) (2023-05-29)
 
 
