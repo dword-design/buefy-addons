@@ -6,7 +6,14 @@
   "license": "MIT",
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
   "type": "module",
-  "exports": "./dist/index.esm.js",
+  "exports": {
+    ".": {
+      "import": {
+        "default": "./dist/index.esm.js",
+        "types": "./dist/entry.d.ts"
+      }
+    }
+  },
   "main": "dist/index.esm.js",
   "unpkg": "dist/index.min.js",
   "browser": "dist/index.min.js",
@@ -14,21 +21,27 @@
     "dist"
   ],
   "scripts": {
+    "build": "base build",
     "checkUnknownFiles": "base checkUnknownFiles",
     "commit": "base commit",
     "depcheck": "base depcheck",
     "lint": "base lint",
     "prepare": "base prepare",
     "prepublishOnly": "base prepublishOnly",
-    "test": "base test"
+    "test": "base test",
+    "typecheck": "base typecheck",
+    "verify": "base verify"
   },
-  "dependencies": {},
+  "dependencies": {
+    "vue-component-type-helpers": "^3.1.6"
+  },
   "devDependencies": {
-    "@dword-design/base": "^10.0.1",
-    "@dword-design/base-config-component-library": "^2.0.4"
+    "@dword-design/base": "^16.1.2",
+    "@dword-design/base-config-component-library": "^4.0.0",
+    "@playwright/test": "^1.57.0"
   },
   "engines": {
-    "node": ">=16"
+    "node": ">=22"
   },
   "publishConfig": {
     "access": "public"
