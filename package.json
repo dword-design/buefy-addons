@@ -36,7 +36,7 @@
     "vue-component-type-helpers": "^3.1.6"
   },
   "devDependencies": {
-    "@dword-design/base": "^16.1.2",
+    "@dword-design/base": "^17.0.0",
     "@dword-design/base-config-component-library": "^4.0.0",
     "@playwright/test": "^1.57.0"
   },
